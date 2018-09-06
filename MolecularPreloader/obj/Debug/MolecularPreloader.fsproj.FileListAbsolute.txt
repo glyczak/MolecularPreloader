@@ -1,0 +1,11 @@
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/bin/Debug/MolecularPreloader.exe.config
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/bin/Debug/MolecularPreloader.xml
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/bin/Debug/MolecularPreloader.exe
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/bin/Debug/MolecularPreloader.pdb
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/bin/Debug/FSharp.Core.dll
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/bin/Debug/System.ValueTuple.dll
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/bin/Debug/FSharp.Core.xml
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/obj/Debug/MolecularPreloader.fsprojResolveAssemblyReference.cache
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/obj/Debug/MolecularPreloader.fsproj.CoreCompileInputs.cache
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/obj/Debug/MolecularPreloader.exe
+/Users/glyczak/RiderProjects/MolecularPreloader/MolecularPreloader/obj/Debug/MolecularPreloader.pdb
